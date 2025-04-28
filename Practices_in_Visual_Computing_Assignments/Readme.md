@@ -1,4 +1,4 @@
-# Assignments
+# 비주얼컴퓨팅 최신기술 과제
 
 ### 1. [HW01] AutoEncoder 기반 생성모델
   #### 1-1. AutoEncoder
