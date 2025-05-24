@@ -14,3 +14,9 @@
 
 ### 3. [HW03] CDCGAN 기반 생성모델
   - CDCGAN 모델을 이용한 생성 모델 구현 및 학습 진행 및 결과를 분석한 보고서 작성
+
+### 4. [HW04] DDPM with Custom Dataset
+  - Custom Dataset을 이용하여 DDPM학습 및 이미지 샘플링
+
+### 5. [HW05] Comparison between DDPN and DDIM
+  - Custom Dataset을 이용하여 DDPM의 학습과 DDIM의 샘플링 방식 차이 이해하기
